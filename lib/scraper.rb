@@ -39,8 +39,5 @@ class Scraper
 
     student 
   end
-
-end
-
 end
 
